@@ -1,3 +1,26 @@
+## filters (jazzy) - 2.1.2-3
+
+The packages in the `filters` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy filters --override-release-repository-push-url git@github.com:revyos-ros/filters-release` on `Thu, 27 Jun 2024 05:44:00 -0000`
+
+The `filters` package was released.
+
+Version of package(s) in repository `filters`:
+
+- upstream repository: https://github.com/ros/filters.git
+- release repository: https://github.com/revyos-ros/filters-release.git
+- rosdistro version: `2.1.2-3`
+- old version: `2.1.2-2`
+- new version: `2.1.2-3`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## filters (rolling) - 2.1.2-1
 
 The packages in the `filters` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling filters` on `Wed, 17 Apr 2024 19:46:14 -0000`
