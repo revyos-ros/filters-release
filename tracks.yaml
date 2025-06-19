@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/filters-release
+release_repo_url: git@github.com:revyos-ros/filters-release.git
 tracks:
   eloquent:
     actions:
